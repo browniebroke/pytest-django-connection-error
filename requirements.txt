@@ -1,0 +1,6 @@
+django==3.0.14
+dj-database-url
+psycopg2
+pytest==6.2.4
+pytest-django==4.2.0
+pytest-mock==3.6.1
