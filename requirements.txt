@@ -1,6 +1,6 @@
 django==3.0.14
 dj-database-url
-psycopg2
+psycopg2-binary
 pytest==6.2.4
 pytest-django==4.3.0
 pytest-mock==3.6.1
